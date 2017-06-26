@@ -24,6 +24,7 @@
 
 # Germany
 
+- [Avira](https://www.avira.com/)
 - [Peerigon](https://opencollective.com/peerigon)
 - [reBuy](https://opencollective.com/rebuy)
 - [Sebastian Software](https://opencollective.com/sebastiansoft)
